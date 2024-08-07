@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.0](https://github.com/grieve54706/wren-engine/compare/0.3.0...0.4.0) (2024-08-07)
+
+
+### Features
+
+* **ci:** test pr created ([#11](https://github.com/grieve54706/wren-engine/issues/11)) ([539e67d](https://github.com/grieve54706/wren-engine/commit/539e67d90034987e470b12707c532a7c3f7693ef))
+
+
+### Bug Fixes
+
+* **ci:** add changelog-sections instead default ([#19](https://github.com/grieve54706/wren-engine/issues/19)) ([bb9640a](https://github.com/grieve54706/wren-engine/commit/bb9640af5ce807ca6e81c687f105f8dadc31fecb))
+* **t5:** test trigger ([#17](https://github.com/grieve54706/wren-engine/issues/17)) ([7c3be84](https://github.com/grieve54706/wren-engine/commit/7c3be847e7e70744ff5a89d0af006397b54a3e60))
+
 ## [0.3.0](https://github.com/grieve54706/wren-engine/compare/0.2.0...0.3.0) (2024-08-07)
 
 
