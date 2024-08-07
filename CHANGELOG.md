@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/grieve54706/wren-engine/compare/0.4.0...2.0.0) (2024-08-07)
+
+
+### Documentation
+
+* **t7:** test trigger ([#20](https://github.com/grieve54706/wren-engine/issues/20)) ([1128539](https://github.com/grieve54706/wren-engine/commit/112853966b2f067efaae3aa65f7de5a7f687aa25))
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([#22](https://github.com/grieve54706/wren-engine/issues/22)) ([dc985eb](https://github.com/grieve54706/wren-engine/commit/dc985eb060f096b355257d07a09675e7a43e35e6))
+
 ## [0.4.0](https://github.com/grieve54706/wren-engine/compare/0.3.0...0.4.0) (2024-08-07)
 
 
