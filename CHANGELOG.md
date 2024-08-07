@@ -1,0 +1,19 @@
+# Changelog
+
+## [0.2.0](https://github.com/grieve54706/wren-engine/compare/v0.1.0...0.2.0) (2024-08-07)
+
+
+### Features
+
+* add ibis meta data routers ([#603](https://github.com/grieve54706/wren-engine/issues/603)) ([a325b49](https://github.com/grieve54706/wren-engine/commit/a325b4944b907e5b33b1bcede53ba0ef18faf203))
+* **ci:** add release image ([#4](https://github.com/grieve54706/wren-engine/issues/4)) ([9f8820d](https://github.com/grieve54706/wren-engine/commit/9f8820ded68795131acddff9bfe41a131e781637))
+* **docker:** make docker build with wren-modeling ([#721](https://github.com/grieve54706/wren-engine/issues/721)) ([cf10c22](https://github.com/grieve54706/wren-engine/commit/cf10c22d615228aa600dd8c040c766bacc28a52b))
+* **ibis:** upgrade ibis version to 9.2.0 ([#688](https://github.com/grieve54706/wren-engine/issues/688)) ([83e6264](https://github.com/grieve54706/wren-engine/commit/83e626423e56d0065843438210fd56bb7ed88b79)), closes [#643](https://github.com/grieve54706/wren-engine/issues/643)
+* trino integration get tables name api developed ([#723](https://github.com/grieve54706/wren-engine/issues/723)) ([1cb6067](https://github.com/grieve54706/wren-engine/commit/1cb60672ee72f71df3f6e10f97fb242ee0c34133))
+
+
+### Bug Fixes
+
+* **ci:** add missing outputs ([#5](https://github.com/grieve54706/wren-engine/issues/5)) ([d84a500](https://github.com/grieve54706/wren-engine/commit/d84a50055e145a144871a954eb055f14d3e33f42))
+* **metadata:** use get_secret_value() to get original value ([#705](https://github.com/grieve54706/wren-engine/issues/705)) ([de775d8](https://github.com/grieve54706/wren-engine/commit/de775d81d227e0c26dd628cd88fb665d5a325dc6))
+* **mssql:** import custom dialects from ibis library for sqlglot ([#734](https://github.com/grieve54706/wren-engine/issues/734)) ([965ed03](https://github.com/grieve54706/wren-engine/commit/965ed03807a803ab79b1c398afba9353bb24062f))
